@@ -63,7 +63,8 @@ Or you can use a 3rd party option like [partition wizard](https://www.partitionw
 # Executing the exploit   
 Attach an ethernet cable to the PS4 and your PC  
 ![-](imgs/10.JPG)  
-Press *START* on the GUI   
+Press *START* on the GUI  
+**Notice** if the GUI is stuck on *WAIT* move the stage2.bin file to another location your desktop for example  
 Then on your PS4 Press X to **Test Internet connection**    
 
 
