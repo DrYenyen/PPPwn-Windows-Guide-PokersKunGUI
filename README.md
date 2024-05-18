@@ -89,7 +89,7 @@ Unfortunately for now there is no specific fix for this
 *Placeholder for future guides and links*  
   
 **No GOLDHEN after *PPPwned* message**  
-1. Make sure your usb is either FAT32 or EXFAT try both formats  
+1. Make sure your usb is either FAT32 or exFAT try both formats  
 2. Make sure you have the correct goldhen.bin on the usb and that it is not in any folders  
 3. Make sure no other USB devices or controllers are plugged into the console    
 
