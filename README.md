@@ -65,6 +65,7 @@ Attach an ethernet cable to the PS4 and your PC
 ![-](imgs/10.JPG)  
 Press *START* on the GUI  
 **Notice** if the GUI is stuck on *WAIT* move the stage2.bin file to another location your desktop for example  
+Then from the tool select it at it's new loaction  
 Then on your PS4 Press X to **Test Internet connection**    
 
 
