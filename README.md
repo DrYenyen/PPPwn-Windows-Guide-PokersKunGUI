@@ -77,7 +77,7 @@ The exploit will run and also auto retry if you have the setting enabled
 4. Make sure the tool is **Watiting for PADI** you can check from the *console*  
 ![-](imgs/11.JPG)  
   
-**PS4 Retrying 30+ times   
+**PS4 Retrying 30+ times**     
 Unfortunately for now there is no specific fix for this  
 1. Try another GUI tool  
 *Placeholder for future guides and links*  
