@@ -1,6 +1,6 @@
 # A guide to executing PPPwn with a GUI tool 
-**Download**[PokersKun's GUI](https://github.com/PokersKun/PPPwn-Loader)   
-**Download**[GOLDHEN by Sistr0](https://github.com/GoldHEN/GoldHEN/releases/tag/2.4b17)    
+**Download** [PokersKun's GUI](https://github.com/PokersKun/PPPwn-Loader)   
+**Download** [GOLDHEN by Sistr0](https://github.com/GoldHEN/GoldHEN/releases/tag/2.4b17)    
 
 # PokersKun's GUI  
 Download and unzip PokersKun's tool using either [7zip](https://www.7-zip.org/) or your preffered software  
