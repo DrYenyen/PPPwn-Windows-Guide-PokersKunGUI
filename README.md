@@ -35,7 +35,7 @@ Then go into the *PPPwn* Folder
 Then go into the *stage2* Folder  
 Then depending on the firmware you are on go into the corresponding folder  (11.00 will be used here)   
 ![-](imgs/8.JPG)  
-Double Right click on the stage2.bin file  
+Double Right click on the stage2.bin file (preferably use the stage2.bin that comes with GOLDHEN)    
 ![-](imgs/9.JPG)  
 The GUI is now ready to start the exploit  
 ![-](imgs/10.JPG)  
