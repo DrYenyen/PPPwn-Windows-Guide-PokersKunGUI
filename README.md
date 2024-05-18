@@ -2,7 +2,7 @@
 [PokersKun's GUI](https://github.com/PokersKun/PPPwn-Loader)   
 [GOLDHEN by Sistr0](https://github.com/GoldHEN/GoldHEN/releases/tag/2.4b17)    
 
-# PokerKun's GUI  
+# PokersKun's GUI  
 Download and unzip PokersKun's tool using either [7zip](https://www.7-zip.org/) or your preffered software  
 ![-](imgs/1.JPG)   
 Launch the **PPPwn Loader**  application  
@@ -66,7 +66,12 @@ Attach an ethernet cable to the PS4 and your PC
 Press *START* on the GUI  
 **Notice** if the GUI is stuck on *WAIT* move the stage2.bin file to another location your desktop for example  
 Then from the tool select it at it's new loaction  
-Then on your PS4 Press X to **Test Internet connection**    
+Then on your PS4 Press X to **Test Internet connection**  
+The exploit will run and also auto retry if you have the setting enabled  
+  
+# Full credit to  [PokersKun](https://github.com/PokersKun)  
+More info on his github https://github.com/PokersKun/PPPwn-Loader  
+
 
 
 
