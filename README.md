@@ -69,6 +69,13 @@ Then from the tool select it at it's new loaction
 Then on your PS4 Press X to **Test Internet connection**  
 The exploit will run and also auto retry if you have the setting enabled  
   
+# FAQ  
+**PS4 unable to get IP**  
+1. Try a different Ethernet cable  
+2. If you have been using ethernet on your PC as an internet connection restart the PC   
+3. Retry up to *10* to find an IP  
+4. Make sure the tool is **Watiting for PADI** you can check from the *console*  
+![-](imgs/11.JPG)  
 # Full credit to  [PokersKun](https://github.com/PokersKun)  
 More info on his github https://github.com/PokersKun/PPPwn-Loader  
 
