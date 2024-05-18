@@ -73,7 +73,7 @@ The exploit will run and also auto retry if you have the setting enabled
 **PS4 unable to get IP**  
 1. Try a different Ethernet cable  
 2. If you have been using ethernet on your PC as an internet connection restart the PC   
-3. Retry up to *10* to find an IP  
+3. Retry up to *20* to find an IP  
 4. Make sure the tool is **Watiting for PADI** you can check from the *console*  
 ![-](imgs/11.JPG)  
   
@@ -82,7 +82,7 @@ Unfortunately for now there is no specific fix for this
 1. Try another GUI tool  
 *Placeholder for future guides and links*  
 
-**PS4 Crashing at Karsl or just crashing to black screen**
+**PS4 Crashing at Defeating KASLR or just crashing to black screen**
 1. Currently there is an issue where some consoles cannot be exploited no matter the amount of tries or bins used it is being investigated  
 2. It is possible you are using the wrong stage2.bin  
 3. Try another GUI tool    
@@ -91,8 +91,7 @@ Unfortunately for now there is no specific fix for this
 **No GOLDHEN after *PPPwned* message**  
 1. Make sure your usb is either FAT32 or EXFAT try both formats  
 2. Make sure you have the correct goldhen.bin on the usb and that it is not in any folders  
-3. Make sure no other USB devices or controllers are plugged into the console  
-
+3. Make sure no other USB devices or controllers are plugged into the console    
 
 # Full credit to  [PokersKun](https://github.com/PokersKun)  
 More info on his github https://github.com/PokersKun/PPPwn-Loader  
